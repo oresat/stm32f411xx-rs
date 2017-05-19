@@ -1,0 +1,8 @@
+[package]
+authors = ["Jamey Sharp <jamey@minilop.net>"]
+name = "stm32f411xx"
+version = "0.1.0"
+
+[dependencies]
+cortex-m = "0.2.6"
+vcell = "0.1.0"
